@@ -37,3 +37,6 @@ python vibration_analysis.py
 ตรวจสอบผลลัพธ์: จะมีไฟล์ภาพชื่อ sample_data.png ปรากฏขึ้นในโฟลเดอร์ของคุณ
 
 ![alt text](sample_data.png)
+
+
+Developed by: 65160401 นายภูวเนตร เกิดเนตร
